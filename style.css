@@ -11,7 +11,7 @@ h1 {
     color: rgb(255, 173, 21);
 }
 
-section {
+.display {
     display: flex;
 }
 
@@ -45,16 +45,6 @@ section {
     background-repeat: no-repeat;
     background-position: right;
     background-color: rgb(205, 242, 242);
-}
-
-.ibr {
-    width: 50%;
-    padding-right: 70px;
-
-}
-
-.ibr img {
-    width: 90%;
 }
 
 .link-d {
